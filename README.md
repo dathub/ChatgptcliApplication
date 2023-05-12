@@ -1,7 +1,7 @@
 # ChatgptcliApplication
 A CLI to asks questions from ChatGPT. An interactive terminal is provided from Spring Shell. The terminal connects with the OpenAI API via the Java HTTP Client API.
 
-Usage: **ask: TYPE_YOUR_QUESTION**
+Usage: **ask TYPE_YOUR_QUESTION**
 
 e.g. 
 
